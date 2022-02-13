@@ -1,3 +1,3 @@
 # computer vision experiments
 
-![](/media/gazebo_lidar_jackal.png)
+![](/media/jkl_ros_zibo_rvz.png)
